@@ -8,6 +8,33 @@ This project analyzes manufacturing defects in electronic board production to id
 
 ![Manufacturing Defect Dashboard](images/dashboard_overview.png)
 
+## Root-Cause Analysis
+
+The fishbone analysis organized potential contributors to manufacturing defects across six operational areas: people, methods, machines, materials, measurement, and environment. These factors were treated as areas for further investigation rather than confirmed causes.
+
+![Fishbone Root-Cause Analysis](images/fishbone_analysis.png)
+
+## Model-Level Pareto Analysis
+
+After identifying Models 595130, 595214, and 595242 as the three highest-defect production models, each model was analyzed separately to determine which defect categories contributed most heavily to its total defect volume.
+
+### Model 595130
+
+Model 595130 had the highest overall defect total. Its defect pattern was concentrated primarily in missing components, missing/unknown classifications, assembly issues, and component misalignment.
+
+![Model 595130 Pareto Analysis](images/model1_level_pareto.png)
+
+### Model 595214
+
+Model 595214 showed a different defect profile, with greater concentration in soldering- and component-related issues, including solder bridges, lifted components, excessive solder, and reversed components.
+
+![Model 595214 Pareto Analysis](images/model2_level_pareto.png)
+
+### Model 595242
+
+Model 595242 showed the greatest concentration among its leading defect categories, with solder bridges, lifted components, pinholes, and broken components accounting for most of the model's defects.
+
+![Model 595242 Pareto Analysis](images/model3_level_pareto.png)
 ## Business Objective
 
 The organization sought to reduce welding-related defects by 20% while supporting a 20% increase in production capacity without increasing the overall defect percentage.
