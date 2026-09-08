@@ -79,17 +79,17 @@ The analysis identified four initial process-improvement priorities:
 - Strengthen targeted employee training and inspection consistency.
 - Continue monitoring defects by production model and defect category using the Power BI dashboard.
 
-## Repository Contents
+## Project Files
 
-- `notebooks/` — Python and Jupyter analysis
-- `power-bi/` — Power BI dashboard files
-- `images/` — Dashboard screenshots and project visualizations
-- `presentation/` — Final project presentation
-- `data/` — Information regarding the project dataset
+- [View Python ANOVA Notebook](notebooks/manufacturing_defect_anova.ipynb)
+- [Download Power BI Dashboard (.pbix)](power-bi/manufacturing_defect_dashboard.pbix)
+- [View Final Presentation](presentation/manufacturing_defect_analysis_presentation.pdf)
+- [View Project Visualizations](images/)
+- [Data Availability and Licensing](data/README.md)
 
 ## Data Note
 
-The original course-provided dataset is not included in this repository.
+The course-provided dataset is not redistributed because no explicit redistribution license was provided. See [Data Availability and Licensing](data/README.md) for additional details and case-study attribution.
 
 ## Project Background
 
