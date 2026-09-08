@@ -4,3 +4,4 @@ The dataset used in this analysis was provided through university coursework and
 
 The accompanying case study is based on the open-access article *Applying the Plan-Do-Check-Act (PDCA) Cycle to Reduce the Defects in the Manufacturing Industry: A Case Study* (Realyvásquez-Vargas et al., 2018), licensed under CC BY 4.0.
 
+The repository includes the analysis methodology, code, visualizations, findings, and recommendations for portfolio demonstration.
