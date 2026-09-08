@@ -4,6 +4,10 @@
 
 This project analyzes manufacturing defects in electronic board production to identify the production models and defect categories contributing most heavily to quality issues. The analysis combines exploratory data analysis, Power BI visualization, root-cause analysis, and statistical hypothesis testing to support process-improvement decisions.
 
+## Dashboard Overview
+
+![Manufacturing Defect Dashboard](images/dashboard_overview.png)
+
 ## Business Objective
 
 The organization sought to reduce welding-related defects by 20% while supporting a 20% increase in production capacity without increasing the overall defect percentage.
