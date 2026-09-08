@@ -8,6 +8,32 @@ This project analyzes manufacturing defects in electronic board production to id
 
 ![Manufacturing Defect Dashboard](images/dashboard_overview.png)
 
+## Business Objective
+
+The organization sought to reduce welding-related defects by 20% while supporting a 20% increase in production capacity without increasing the overall defect percentage.
+
+## Tools and Technologies
+
+- Power BI
+- Python
+- Pandas
+- SciPy
+- Jupyter Notebook
+- Statistical Hypothesis Testing
+- Pareto Analysis
+- Root-Cause Analysis
+
+## Analytical Approach
+
+The project followed an end-to-end analytical process that included:
+
+1. Identifying the production models responsible for the highest defect volumes.
+2. Analyzing defect categories within the highest-defect models.
+3. Using Pareto analysis to identify priority areas for improvement.
+4. Developing a fishbone diagram to organize potential operational contributors.
+5. Performing a one-way ANOVA to evaluate whether mean defect frequency differed significantly among the three highest-defect production models.
+6. Developing a Power BI dashboard to communicate findings and recommendations.
+
 ## Root-Cause Analysis
 
 The fishbone analysis organized potential contributors to manufacturing defects across six operational areas: people, methods, machines, materials, measurement, and environment. These factors were treated as areas for further investigation rather than confirmed causes.
@@ -35,31 +61,6 @@ Model 595214 showed a different defect profile, with greater concentration in so
 Model 595242 showed the greatest concentration among its leading defect categories, with solder bridges, lifted components, pinholes, and broken components accounting for most of the model's defects.
 
 ![Model 595242 Pareto Analysis](images/model3_level_pareto.png)
-## Business Objective
-
-The organization sought to reduce welding-related defects by 20% while supporting a 20% increase in production capacity without increasing the overall defect percentage.
-
-## Tools and Technologies
-
-- Power BI
-- Python
-- Pandas
-- SciPy
-- Jupyter Notebook
-- Statistical Hypothesis Testing
-- Pareto Analysis
-- Root-Cause Analysis
-
-## Analytical Approach
-
-The project followed an end-to-end analytical process that included:
-
-1. Identifying the production models responsible for the highest defect volumes.
-2. Analyzing defect categories within the highest-defect models.
-3. Using Pareto analysis to identify priority areas for improvement.
-4. Developing a fishbone diagram to organize potential operational contributors.
-5. Performing a one-way ANOVA to evaluate whether mean defect frequency differed significantly among the three highest-defect production models.
-6. Developing a Power BI dashboard to communicate findings and recommendations.
 
 ## Key Findings
 
