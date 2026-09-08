@@ -81,7 +81,7 @@ The analysis identified four initial process-improvement priorities:
 
 ## Project Files
 
-- [View Python ANOVA Notebook](notebooks/manufacturing_defect_anova.ipynb)
+- [View Python ANOVA Notebook](notebooks/manufacturing_defect_anova_portfolio.ipynb)
 - [Download Power BI Dashboard (.pbix)](power-bi/manufacturing_defect_dashboard.pbix)
 - [View Final Presentation](presentation/manufacturing_defect_analysis_presentation.pdf)
 - [View Project Visualizations](images/)
